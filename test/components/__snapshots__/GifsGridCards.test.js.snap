@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testting GifsGridCards  GifsGridCards snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dokuro chan"
+      src="http://dokurochan.com/dokurochan.jpg"
+    />
+    <p>
+      Dokuro chan
+    </p>
+  </div>
+</div>
+`;
